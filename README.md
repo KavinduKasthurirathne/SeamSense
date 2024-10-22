@@ -1,6 +1,6 @@
 ## General Information
 
-#### Project Title - Sri Lankan Legal Information Retrieval System
+#### Project Title - Real-Time Quality Monitoring System for the Apparel Industry in Sri Lanka
 
 #### Group ID - 2024-066
 
@@ -8,13 +8,13 @@
 * Mr. Samadhi Rathnayake
 
 #### Co-supervisor - 
-* Mrs. 
+* Mrs. Supipi Karunathilake
 
 #### External Supervisor - 
-* Ms. R. L. Maldeniya
+* Mr. Gayan Ranaweera (Electrical & Autonomation Engineer, MAS Holdings)
 
 #### Group Members -
-* Jayasooriya C.A - IT20250942 - +94 76 769 3319 - it20250942@my.sliit.lk
-* Bandara T.M.Y.M - IT20492052 - +94 77 272 4435 - it20492052@my.sliit.lk
-* M.J.Akeel Ahamed - IT20068264 - +94 72 429 7981 - it20068264@my.sliit.lk
-* Gavindya N.A.C - IT20409982 - +94 76 762 2683 - it20409982@my.sliit.lk
+* Kasthurirathne K.K.I - IT21077692 - +94 71 200 4992 - it21077692@my.sliit.lk
+* Thilakarathne M.A.M.V - IT21044922 - +94 71 950 7124 - it21044922@my.sliit.lk
+* Weerasinghe C.C - IT20229016 - +94 76 767 8246 - it20229016@my.sliit.lk
+* Samaraweera G.P.M.D - IT21016066 - +94 76 554 9596 - it21016066@my.sliit.lk
